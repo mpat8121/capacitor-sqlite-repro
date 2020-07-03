@@ -1,5 +1,7 @@
 {
   "name": "sqlite-rc5-repro",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
