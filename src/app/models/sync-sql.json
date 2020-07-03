@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Projects",
+    "schema": [
+      { "column": "Id", "value": "INTEGER PRIMARY KEY NOT NULL" },
+      { "column": "Name", "value": "TEXT NOT NULL" }
+    ],
+    "values": [
+        [1, "Test"],
+        [2, "Project"],
+        [3, "Home"],
+        [4, "Holiday"],
+        [5, "Apartment"]
+    ]
+  }
+]
